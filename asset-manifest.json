@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Zepto/static/css/main.89776a90.css",
+    "main.js": "/Zepto/static/js/main.f49f487f.js",
+    "static/js/787.a67cc95e.chunk.js": "/Zepto/static/js/787.a67cc95e.chunk.js",
+    "index.html": "/Zepto/index.html",
+    "main.89776a90.css.map": "/Zepto/static/css/main.89776a90.css.map",
+    "main.f49f487f.js.map": "/Zepto/static/js/main.f49f487f.js.map",
+    "787.a67cc95e.chunk.js.map": "/Zepto/static/js/787.a67cc95e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89776a90.css",
+    "static/js/main.f49f487f.js"
+  ]
+}
